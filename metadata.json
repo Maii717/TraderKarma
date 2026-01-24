@@ -1,0 +1,7 @@
+{
+  "name": "TradeKarma: The Discipline Dojo",
+  "description": "A gamified trading companion that uses AI to enforce discipline. Set your rules, maintain your streak, and keep your Trading Spirit alive by following your plan. If you break your rules, your spirit suffers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
